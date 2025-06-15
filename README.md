@@ -46,8 +46,8 @@
 ### 📫 Let's Connect!
 
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 [Email](mailto:youremail@gmail.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/pranav-rane-63912528a))
+- 📧 [Email](pranavrane733@gmail.com)
 
 ---
 
