@@ -161,14 +161,57 @@ Focused on cutting-edge AI/ML technologies and their practical applications in s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rane05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rane05&layout=compact&langs_count=8&theme=tokyonight"/>
+### 📈 **Contribution Stats**
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rane05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Pranav's%20GitHub%20Stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rane05&theme=tokyonight)](https://git.io/streak-stats)
+### 🔥 **Streak Statistics**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rane05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&fire=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+### 💻 **Most Used Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rane05&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=rane05)
+
+</div>
+
+<div align="center">
+
+### 📊 **Contribution Graph**
+
+[![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rane05&theme=tokyo-night&hide_border=true&area=true)](https://github.com/rane05)
+
+</div>
+
+<div align="center">
+
+### 🏆 **GitHub Trophies**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rane05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+<div align="center">
+
+### 📉 **Detailed Stats**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rane05&theme=tokyonight" alt="Pranav's Profile Summary"/>
+
+</div>
+
+<div align="center">
+
+### 🐍 **Contribution Snake**
+
+![Snake animation](https://raw.githubusercontent.com/rane05/rane05/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
