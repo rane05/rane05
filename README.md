@@ -66,35 +66,51 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** currently pursui
 
 ## 🧠 Featured Projects
 
-### 🛡️ [Suraksha Setu](https://github.com/rane05/suraksha-setu)
-**Real-time Citizen Safety Application**  
-A comprehensive safety platform built with **React Native** and **Python** that provides real-time emergency response, location tracking, and community safety features. Designed to enhance public safety through intelligent alert systems and rapid response mechanisms.
+### 🤖 [Diorthono](https://github.com/rane05/Diorthono)
+**AI-Powered Data Analysis Platform**  
+An advanced data analysis platform powered by **Google Gemini 3 Pro** that allows users to interact with their data through natural language. Features automated data cleaning, complex visualizations, and deep statistical analysis wrapped in a premium glassmorphic interface. Simply talk to your data and get actionable intelligence.
 
-**Tech Stack:** React Native • Python • Firebase • Google Maps API • Machine Learning
-
----
-
-### 🚦 [Smart Urban Mobility AI](https://github.com/rane05/traffic-ai)
-**Intelligent Traffic Management System**  
-An AI-powered solution for real-time traffic monitoring and accident prediction. Leverages computer vision and machine learning to analyze traffic patterns, predict congestion, and suggest optimal routes for urban mobility.
-
-**Tech Stack:** Python • TensorFlow • OpenCV • Flask • React
+**Tech Stack:** React • Node.js • Google Gemini API • Python • Data Visualization Libraries
 
 ---
 
-### 📘 [AI Study Buddy](https://github.com/rane05/ai-study-buddy)
-**Personalized Learning Assistant**  
-An innovative AI-powered educational platform designed specifically for Indian students, featuring **Hinglish** language support. Provides personalized study recommendations, doubt resolution, and adaptive learning paths.
+### 🎓 [EduNavigator](https://github.com/rane05/Edu_Tech)
+**AI-Driven Career Guidance Platform**  
+A cutting-edge educational platform leveraging **AI and machine learning** to guide students through their career journeys. Features include AI chatbot with resume analysis, visual career roadmaps, smart quiz assessments, college recommendations based on entrance exam scores, and real-time job market predictions.
 
-**Tech Stack:** React • Node.js • Google Gemini API • MongoDB • Natural Language Processing
+**Tech Stack:** React • Node.js • Ollama + Llama3 • Gemini API • MongoDB • Mermaid.js • Chart.js
 
 ---
 
-### 🏨 [Hotel Reservation System](https://github.com/rane05/hotel-reservation-system)
-**Full-Stack Booking Platform**  
-A complete hotel management and reservation system with admin portal, user authentication, booking management, and payment integration. Features real-time availability tracking and automated email notifications.
+### �️ [Suraksha Setu](https://github.com/rane05/Suraksha_App)
+**Citizen & Police Safety Ecosystem**  
+A real-time public safety solution bridging citizens and law enforcement through instant communication, **AI-based surveillance**, and geo-enabled emergency support. Includes a mobile app for citizens and a comprehensive web dashboard for police with AI-powered backend for faster response and smarter action.
 
-**Tech Stack:** Flask • MongoDB • React • Node.js • SMTP Integration
+**Tech Stack:** React Native • Python Flask • MongoDB • HTML • Tailwind CSS • AI/ML • Geolocation APIs
+
+---
+
+### 🎤 [IELTS-TalkMate](https://github.com/rane05/IELTS-TalkMate)
+**AI Speaking Coach for IELTS**  
+An AI-powered IELTS Speaking practice platform with **real-time feedback**, pronunciation analysis, and comprehensive progress tracking. Features multiple practice modes, AI-powered feedback, topic selection, and detailed performance analytics to help students ace their IELTS speaking test.
+
+**Tech Stack:** React • Node.js • AI Speech Recognition • Natural Language Processing • Progress Tracking APIs
+
+---
+
+### � [SentinelAI Global](https://github.com/rane05/SentinelAI_Global_Web_FixedMap)
+**Global Disaster Monitoring System**  
+A comprehensive disaster monitoring and threat detection platform featuring **live global disaster dashboard** using NASA EONET API, real-time threat text detection with AI, MongoDB logging with geolocation, admin dashboard with trends and filters, and news scraping with threat flagging via NLP.
+
+**Tech Stack:** Python Flask • MongoDB • HTML • Tailwind CSS • Leaflet.js • Chart.js • NASA EONET API • NewsAPI • AI/ML
+
+---
+
+### 🏨 [Tourly](https://github.com/rane05/Tourly)
+**Hotel Reservation System**  
+A full-stack hotel booking and management platform with user authentication, booking management, and admin portal. Designed to streamline hotel operations and provide seamless reservation experiences for customers.
+
+**Tech Stack:** Flask • MongoDB • React • Node.js • RESTful APIs
 
 ---
 
