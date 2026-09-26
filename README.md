@@ -4,7 +4,7 @@
 
 ### � Full Stack & AI Developer | Hackathon Champion | Tech Innovator
 
-[![Portfolio](https://pranavrane.xyz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavrane.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rane-63912528a)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavrane733@gmail.com)
 
